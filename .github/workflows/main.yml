@@ -16,7 +16,7 @@ jobs:
 
         with:
 
-          region: "us"
+          region: "eu"
 
           branch: "master"
 
